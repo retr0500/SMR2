@@ -1,2 +1,2 @@
 # SMR2
-Trabajos smr
+Trabajos smr2
