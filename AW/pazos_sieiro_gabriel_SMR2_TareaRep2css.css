@@ -1,0 +1,23 @@
+img{
+    display:block;
+    margin:auto;
+}
+h1{
+    text-align: center;
+    
+}
+span.m{
+    color: blue;
+}
+span.a{
+    color: green;
+}
+span.g{
+    color: red;
+}
+span.i{
+    color: pink;
+}
+span.aa{
+    color: orange;
+}
